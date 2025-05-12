@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager App
 
 A simple task manager built with React, Redux, and TypeScript.
@@ -17,3 +18,6 @@ cd task-manager
 npm install
 npm start
 ```
+=======
+# task-manager
+>>>>>>> 5ed6e9739426519aff1cc16f6f54a4b0d49a23d5
